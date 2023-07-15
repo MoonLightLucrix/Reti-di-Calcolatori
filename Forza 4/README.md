@@ -1,4 +1,4 @@
-### Forza 4
+<p align="center">### Forza 4</p>
 
 Gli studenti del corso di Reti di Calcolatori del DMI - UNICT hanno deciso, di loro spontanea volontà, di realizzare il gioco di forza 4 in modalità client-server.
 
