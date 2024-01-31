@@ -1,0 +1,6 @@
+0	Espresso	0.20	20
+1	Cioccolata	0.20	10
+2	The	0.20	34
+3	C14	1.00	38
+4	Ginzeng	0.40	39
+5	Acqua	0.50	100
