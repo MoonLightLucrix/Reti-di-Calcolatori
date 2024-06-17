@@ -13,7 +13,7 @@ Il server restituirà i seguenti messaggi in base all'operazione scelta dal clie
 - Per l'operazione numero 2, il server, oltre ad inviare la lista degli abiti scelti (con tutti i dettagli elencati precedentemente), invierà il messaggio "Sei sicuro di voler confermare l'operazione?". Se il client risponde con "Si" allora il server risponderà con il messaggio "Operazione effettuata", altrimenti se la risposta sarà "No" il server invierà il messaggio "Operazione annullata". In quest'ultimo caso, il client potrà scegliere di effettuare una delle 4 operazione precedentemente elencate.
 - Per l'operazione numero 3, il server invierà il messaggio "Sei sicuro di voler confermare l'operazione?". Se il client risponde con "Si" allora il server risponderà con il messaggio "Reso effettuato", altrimenti se la risposta sarà "No" il server invierà il messaggio "Reso annullato". In quest'ultimo caso, il client potrà scegliere di effettuare una delle 4 operazioni precedentemente elencate.
 
-Usare **<u>Socket TCP</u>**!! e **<u>Protocollo IPv4</u>**.
+Usare **<ins>Socket TCP</ins>**!! e **<ins>Protocollo IPv4</ins>**.
 
 ---
 
