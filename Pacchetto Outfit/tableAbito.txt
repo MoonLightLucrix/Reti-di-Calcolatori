@@ -1,0 +1,10 @@
+3	Camicia Gucci	M	20	120.5
+4	Pantaloni Prada	L	15	85.99
+5	Giacca Armani	S	30	200
+6	Scarpe Nike	41	15	75
+7	Cappello Versace	U	25	55.50
+8	Cravatta Dior	U	50	45.99
+9	Guanti Chanel	M	40	65.00
+10	Sciarpa Fendi	U	60	70.00
+11	Cintura Hermes	L	35	90.50
+12	Calze Balenciaga	38	80	25.99
