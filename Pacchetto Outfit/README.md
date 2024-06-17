@@ -14,3 +14,7 @@ Il server restituirà i seguenti messaggi in base all'operazione scelta dal clie
 - Per l'operazione numero 3, il server invierà il messaggio "Sei sicuro di voler confermare l'operazione?". Se il client risponde con "Si" allora il server risponderà con il messaggio "Reso effettuato", altrimenti se la risposta sarà "No" il server invierà il messaggio "Reso annullato". In quest'ultimo caso, il client potrà scegliere di effettuare una delle 4 operazioni precedentemente elencate.
 
 Usare **<u>Socket TCP</u>**!! e **<u>Protocollo IPv4</u>**.
+
+---
+
+Per compilare il programma usare il comando `make`, se tutto è andato a buon fine gli eseguibili si troveranno all'interno della directory `bin`
