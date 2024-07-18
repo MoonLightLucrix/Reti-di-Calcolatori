@@ -19,9 +19,9 @@ int main(int argc, char**argv)
     const size_t numeroPartecipanti=1;
     SocketService aClient[numeroPartecipanti];
     server.serveFor(aClient,numeroPartecipanti);
+    string nome;
     for(SocketService&client: aClient)
     {
-        std::string nome;
         client>>nome;
         ConnectionHandler c(nome);
         c.avantiUnAltro(client);
