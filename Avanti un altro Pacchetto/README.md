@@ -11,3 +11,7 @@ La domanda che il server invierà al client dovrà contenere solo due risposte (
 Nel caso in cui il client indovina tutte le domande, allora il server invierà il seguente messaggio "Congratulazioni, hai vinto XX euro". Se il monepremi raggiungerà il valore 0, allora il server invierà al client "Hai perso!". In entrambi i casi, la connessione tra client e server terminerà.
 
 Usare **<ins>Socket TCP</ins>** e **<ins>Protocollo IPv4</ins>!!**
+
+---
+
+Per compilare il programma usare il comando `make` su questa directory, se tutto è andato a buon fine gli eseguibili del Server e del Client si troveranno all'interno della directory `bin`.
