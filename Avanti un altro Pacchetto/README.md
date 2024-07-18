@@ -14,4 +14,4 @@ Usare **<ins>Socket TCP</ins>** e **<ins>Protocollo IPv4</ins>!!**
 
 ---
 
-Per compilare il programma usare il comando `make` su questa directory, se tutto è andato a buon fine gli eseguibili del Server e del Client si troveranno all'interno della directory `bin`.
+Per compilare i programmi usare il comando `make` su questa directory, se tutto è andato a buon fine gli eseguibili del Server e del Client si troveranno all'interno della directory `bin`.
