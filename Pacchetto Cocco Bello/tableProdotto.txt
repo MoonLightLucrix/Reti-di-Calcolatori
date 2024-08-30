@@ -1,0 +1,17 @@
+1	Cocco Bello Classico	2.50	100
+2	Cocco Bello con Cioccolato	3.00	80
+3	Cocco Bello con Mandorle	3.20	60
+4	Cocco Bello con Miele	2.80	90
+5	Cocco Bello con Zenzero	3.10	70
+6	Cocco Bello con Cannella	2.90	85
+7	Cocco Bello con Vaniglia	3.00	75
+8	Cocco Bello con Fragola	3.50	50
+9	Cocco Bello con Menta	3.00	65
+10	Cocco Bello con Limone	2.70	95
+11	Cocco Bello con Arancia	2.80	85
+12	Cocco Bello con Ananas	3.20	60
+13	Cocco Bello con Mango	3.30	55
+14	Cocco Bello con Papaya	3.40	45
+15	Cocco Bello con Frutti di Bosco	3.60	40
+16	Cocco Bello con Nutella	7.50	35
+17	Cocco Bello con Carne di Cavallo	13.99	3
